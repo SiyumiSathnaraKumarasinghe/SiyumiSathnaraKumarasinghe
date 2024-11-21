@@ -6,17 +6,28 @@
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siyumisathnarakumarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="siyumisathnarakumarasinghe" /> </p>
+<hr>
 
-### About Me
 
-- 🌱 I’m currently learning **Angular, .NET**
 
-- 💬 Ask me about **MERN stack, HTML, CSS, PHP, Kotlin, MySQL, MongoDB**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+<br>
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="300" align="right" style="padding-top: 20px;" />
 
-- 📫 Reach me at **sathnarakumarasinghe@gmail.com**
-- ⚡ Fun fact **Coding feels like magic, and I love being the wizard! ✨🧙‍♀️**
+ 🌱 I’m currently learning **Angular, .NET** 
+ <br><br>
+ 🤔 I'm Looking for an Internship.
+ <br><br>
+ 💬 Ask me about **Java, MERN stack, HTML, CSS, Kotlin**
+ <br><br>
+ 📫 Reach me at **sathnarakumarasinghe@gmail.com**
+ <br><br>
+ ⚡ Fun fact **Coding feels like magic, and I love being the wizard! ✨🧙‍♀️**
+ <br><br>
+ 📄 Know about my experiences &nbsp;
+[<img src="https://img.shields.io/badge/resume-%23E0E0E0.svg?&style=for-the-badge&logo=resume&logoColor=black" />](https://mysliit-my.sharepoint.com/:b:/g/personal/it22221414_my_sliit_lk/EfCtDAUYVidIqW_GSRUb_MMBSkp1aQUn8fTJpH3ln-pbXA?e=gJ0iqf)
 
-- 📄 Know about my experiences [https://mysliit-my.sharepoint.com/:b:/g/personal/it22221414_my_sliit_lk/EfCtDAUYVidIqW_GSRUb_MMBSkp1aQUn8fTJpH3ln-pbXA?e=xMtQ9c](https://mysliit-my.sharepoint.com/:b:/g/personal/it22221414_my_sliit_lk/EfCtDAUYVidIqW_GSRUb_MMBSkp1aQUn8fTJpH3ln-pbXA?e=xMtQ9c)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
