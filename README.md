@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siyumi Kumarasinghe</h1>
 <br>
 
-<table style="border: none;">
+<table border = 0>
   <tr>
-    <td style="border: none;">
+    <td>
       <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23600000&size=29&center=true&vCenter=true&width=900&height=100&lines=Hello+👋🏻😀;I'm+a+Passionate+Software+Engineering+undergraduate+👩‍💻;At+SLIIT+🎓;Building+the+future+of+tech+🚀;Learning,+growing,+and+coding+every+day+💡">
 </a>
       </p>
     </td>
-    <td style="border: none;">
-      <img height="150em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+    <td>
+      <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width=200px>
     </td>
   </tr>
 </table>
