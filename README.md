@@ -11,7 +11,7 @@
       </p>
     </td>
     <td style="border: none;">
-      <img height="200em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+      <img height="150em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
     </td>
   </tr>
 </table>
