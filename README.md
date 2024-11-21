@@ -1,10 +1,22 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siyumi Kumarasinghe</h1>
-<p align = "Center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=800&height=100&lines=Passionate+Software+Engineering+undergraduate+👩‍💻;At+SLIIT+🎓;Building+the+future+of+tech+🚀;Learning,+growing,+and+coding+every+day+💡">
-</a>
-  
 <br>
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23600000&size=29&center=true&vCenter=true&width=900&height=100&lines=Hello+👋🏻😀;I'm+a+Passionate+Software+Engineering+undergraduate+👩‍💻;At+SLIIT+🎓;Building+the+future+of+tech+🚀;Learning,+growing,+and+coding+every+day+💡">
+</a>
+      </p>
+    </td>
+    <td style="border: none;">
+      <img height="200em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+    </td>
+  </tr>
+</table>
+
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -49,7 +61,7 @@
 
 <br> 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> Languages and Tools
+## <picture> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px></picture> &nbsp; Languages and Tools
 
 <br> <br>
 
