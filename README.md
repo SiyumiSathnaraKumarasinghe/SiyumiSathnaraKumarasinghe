@@ -8,8 +8,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siyumisathnarakumarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="siyumisathnarakumarasinghe" /> </p>
 <hr>
 
-
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <br>
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="300" align="right" style="padding-top: 20px;" />
@@ -29,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## <picture><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></picture> Connect with me
 <p align="left">
 <a href="https://twitter.com/siyumisk2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siyumisk2000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siyumi kumarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siyumi kumarasinghe" height="30" width="40" /></a>
