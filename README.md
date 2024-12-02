@@ -89,7 +89,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>](https://developer.android.com/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>](https://www.figma.com/) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>](https://git-scm.com/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>](https://git-scm.com/)  &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>](https://angular.io)
+
 
 </p>
 
