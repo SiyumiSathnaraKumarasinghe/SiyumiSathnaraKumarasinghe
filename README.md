@@ -33,16 +33,17 @@
 
  🌱 I’m currently learning **Angular, .NET** 
  <br><br>
- 🤔 I'm Looking for an Internship.
+ 🤔 I'm Looking for an **Internship**.
  <br><br>
  💬 Ask me about **Java, MERN stack, HTML, CSS, Kotlin**
  <br><br>
- 📫 Reach me at **sathnarakumarasinghe@gmail.com**
+ 📫 Reach me at &nbsp; [<img src="https://img.shields.io/badge/email-%239F2B68.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sathnarakumarasinghe@gmail.com)
  <br><br>
- ⚡ Fun fact **Coding feels like magic, and I love being the wizard! ✨🧙‍♀️**
- <br><br>
- 📄 Know about my experiences &nbsp;
-[<img src="https://img.shields.io/badge/resume-%23E0E0E0.svg?&style=for-the-badge&logo=resume&logoColor=black" />](https://mysliit-my.sharepoint.com/:b:/g/personal/it22221414_my_sliit_lk/EfCtDAUYVidIqW_GSRUb_MMBSkp1aQUn8fTJpH3ln-pbXA?e=gJ0iqf)
+ 🙋‍♀️ Know about my experiences &nbsp;
+[<img src="https://img.shields.io/badge/resume-%23088F8F.svg?&style=for-the-badge&logo=resume&logoColor=black" />](https://mysliit-my.sharepoint.com/:b:/g/personal/it22221414_my_sliit_lk/EfCtDAUYVidIqW_GSRUb_MMBSkp1aQUn8fTJpH3ln-pbXA?e=gJ0iqf) &nbsp;
+[<img src="https://img.shields.io/badge/portfolio-%23E97451.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://siyumisathnarakumarasinghe.github.io/Portfolio/)
+<br><br>
+⚡ Fun fact **Coding feels like magic, and I love being the wizard! ✨🧙‍♀️**
 
 <br>
 
