@@ -35,7 +35,7 @@
  <br><br>
  🤔 I'm Looking for an **Internship**.
  <br><br>
- 💬 Ask me about **Java, MERN stack, HTML, CSS, Kotlin**
+ 💡 Ask me about **Java, MERN stack, HTML, CSS, Kotlin**
  <br><br>
  📫 Reach me at &nbsp; [<img src="https://img.shields.io/badge/email-%239F2B68.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sathnarakumarasinghe@gmail.com)
  <br><br>
