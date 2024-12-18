@@ -97,9 +97,9 @@
 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>](https://git-scm.com/)  &nbsp;&nbsp;&nbsp;
 [<img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="60" height="60"/>](https://desktop.github.com/) &nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="XAMPP" width="100" height="40"/>](https://en.wikipedia.org/wiki/XAMPP) &nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="90" height="60"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="phpmyadmin" width="90" height="60"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white" alt="XAMPP" width="80" height="40"/>](https://www.apachefriends.org/index.html)&nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="120" height="80"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60"/>](https://code.visualstudio.com/)  &nbsp;&nbsp;&nbsp;
 
 
 </p>
