@@ -82,16 +82,24 @@
 <br> 
 
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com/) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>](https://expressjs.com) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>](https://reactjs.org/) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>](https://angular.io)&nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>](https://postman.com) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>](https://developer.android.com/) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/) &nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>](https://www.figma.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>](https://expressjs.com) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>](https://reactjs.org/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>](https://angular.io)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>](https://postman.com) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>](https://developer.android.com/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>](https://www.figma.com/) 
+
+<br>
+
+
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>](https://git-scm.com/)  &nbsp;&nbsp;&nbsp;
+[<img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="60" height="60"/>](https://desktop.github.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://en.wikipedia.org/wiki/XAMPP#/media/File:XAMPP_logo.svg" alt="XAMPP" width="60" height="60"/>](https://en.wikipedia.org/wiki/XAMPP) &nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="90" height="60"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="phpmyadmin" width="90" height="60"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
 
 
 </p>
