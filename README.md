@@ -86,7 +86,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>](https://expressjs.com) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>](https://reactjs.org/) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>](https://angular.io)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>](https://angular.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>](https://postman.com) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>](https://developer.android.com/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/) &nbsp;&nbsp;&nbsp;&nbsp;
