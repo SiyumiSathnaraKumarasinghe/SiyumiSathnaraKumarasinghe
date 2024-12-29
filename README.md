@@ -71,17 +71,17 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>](https://www.java.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>](https://www.cprogramming.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>](https://www.w3schools.com/cpp/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="60" height="60"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/>](https://kotlinlang.org) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>](https://www.w3.org/html/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>](https://www.w3schools.com/css/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>](https://www.php.net) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>](https://www.python.org)
 
 
 <br> 
 
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>](https://www.python.org)&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>](https://www.mongodb.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>](https://expressjs.com) &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>](https://nodejs.org) &nbsp;&nbsp;&nbsp;
@@ -89,17 +89,18 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>](https://angular.io)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt="asp.net" width="120" height="50"/>](https://www.vectorlogo.zone/logos/dotnet/) &nbsp;&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>](https://postman.com) &nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>](https://developer.android.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/)
 
 <br>
 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>](https://www.figma.com/) &nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="canva" width="80" height="80"/>](https://www.vectorlogo.zone/logos/canva/) &nbsp;&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>](https://git-scm.com/)  &nbsp;&nbsp;&nbsp;
 [<img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="60" height="60"/>](https://desktop.github.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white" alt="XAMPP" width="80" height="30"/>](https://www.apachefriends.org/index.html)&nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="120" height="80"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" width="150" height="80"/>](https://www.vectorlogo.zone/logos/phpmyadmin/)  &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60"/>](https://code.visualstudio.com/)  &nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/>](https://developer.android.com/)
 
 
 </p>
