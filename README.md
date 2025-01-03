@@ -115,6 +115,7 @@
 
 <br><br>
 # Highlighted Work 📂
+<br>
 
 ## 🛠 Rubber Carpet Manufacturing System (MERN Stack)
 A real-time responsive web application designed for **P.R.I. Rubber Industries**, a company that recycles disposable rubber tires into carpets and other products.
