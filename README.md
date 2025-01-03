@@ -120,10 +120,10 @@
 A real-time responsive web application designed for **P.R.I. Rubber Industries**, a company that recycles disposable rubber tires into carpets and other products.
 
 ### Key Features
-- **Human Resource Management**: Employee login/registration, salary allocation, and feedback management.
-- **Supplier Management**: CRUD operations for managing suppliers.
-- **Inventory Management**: Real-time updates for raw material orders (tires, hoses, gaskets).
-- **Cost Analysis**: Reports and calculations for financial managers.
+- **Employee Login and Registration**: Employee login/registration forms and CRUD Operations
+- **Salary Calculation and Allocation**: Salary Allocation and Automatic Salary Calculation
+- **Employee Feedback**: Taking the Feedback and Claims of the Employees
+- **Report Generating and pdf downloading**: Generate Monthly Reports and Download them as pdfs 
 
 ### 🖥️ Technologies Used
 - **Frontend**: React.js
@@ -149,7 +149,7 @@ A user-friendly Android app to help users stay organized and manage their daily 
 ---
 
 ## 🏦 Life Care Insurance Management System
-A responsive web application for managing life insurance policies, built to ensure secure and efficient handling of customers and claims.
+A responsive web application for managing life insurance policies, built to ensure secure and efficient handling of customers and claims.(Ongoing)
 
 ### Key Features
 - **User Registration & Authentication**: Secure login for users and admins.
@@ -157,7 +157,6 @@ A responsive web application for managing life insurance policies, built to ensu
 - **Policy Management**: Create and manage insurance policies.
 - **Claims Handling**: Easy submission and tracking of claims.
 - **Admin Dashboard**: Monitor system data, manage users, and view claims in real-time.
-- **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
 - **Forgot Password with Email Verification**: Secure password reset feature via email.
 
 ### 🖥️ Technologies Used
