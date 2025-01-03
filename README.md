@@ -112,3 +112,75 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siyumisathnarakumarasinghe&show_icons=true&locale=en" alt="siyumisathnarakumarasinghe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siyumisathnarakumarasinghe&" alt="siyumisathnarakumarasinghe" /></p>
+
+
+# Featured Projects 📂
+
+## 🛠 Rubber Carpet Manufacturing System (MERN Stack)
+A real-time responsive web application designed for **P.R.I. Rubber Industries**, a company that recycles disposable rubber tires into carpets and other products.
+
+### Key Features
+- **Human Resource Management**: Employee login/registration, salary allocation, and feedback management.
+- **Supplier Management**: CRUD operations for managing suppliers.
+- **Inventory Management**: Real-time updates for raw material orders (tires, hoses, gaskets).
+- **Cost Analysis**: Reports and calculations for financial managers.
+
+### 🖥️ Technologies Used
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools**: Visual Studio Code, GitHub, Postman
+
+---
+
+## 📱 HappyCycle
+A user-friendly Android app to help users stay organized and manage their daily schedules.
+
+### 🚀 Features
+- **Task Reminder**: Schedule and receive notifications for daily tasks. 🔔
+- **Alarm**: A reliable alarm system to keep you on track. ⏰
+- **Stopwatch**: Track your progress with an easy-to-use stopwatch feature. ⏱️
+
+### 🖥️ Technologies Used
+- **Platform**: Kotlin, Android Studio
+- **Tools**: Android Virtual Device (AVD), GitHub
+- **Design**: Material Design for an intuitive user experience
+
+---
+
+## 🏦 Life Care Insurance Management System
+A responsive web application for managing life insurance policies, built to ensure secure and efficient handling of customers and claims.
+
+### Key Features
+- **User Registration & Authentication**: Secure login for users and admins.
+- **Customer Management**: CRUD operations for managing customer details.
+- **Policy Management**: Create and manage insurance policies.
+- **Claims Handling**: Easy submission and tracking of claims.
+- **Admin Dashboard**: Monitor system data, manage users, and view claims in real-time.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
+- **Forgot Password with Email Verification**: Secure password reset feature via email.
+
+### 🖥️ Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL (PhpMyAdmin)
+- **Tools**: XAMPP, VS Code
+- **Version Control**: GitHub
+
+---
+
+## 📚 Welcome to Book Nest! 🎉
+A simple yet efficient web application for managing a library of books with ease.
+
+### 🚀 Features
+- **Add Books**: Use a clean and simple form to add new books. 📝
+- **View Books**: Browse your library with a user-friendly interface. 📖
+- **Edit Books**: Modify details of any book in your collection. ✏️
+- **Delete Books**: Remove outdated or unwanted books seamlessly. 🗑️
+
+### 🖥️ Technologies Used
+- **Frontend**: Angular (HTML, SCSS, TypeScript, Angular Material for a professional UI)
+- **Backend**: ASP.NET Core with C# (RESTful API for CRUD operations)
+- **Database**: MongoDB Atlas (NoSQL cloud database)
+- **Tools**: Visual Studio Code, Postman, GitHub
+
