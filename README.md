@@ -114,7 +114,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siyumisathnarakumarasinghe&" alt="siyumisathnarakumarasinghe" /></p>
 
 <br><br>
-# Featured Projects 📂
+# Highlighted Work 📂
 
 ## 🛠 Rubber Carpet Manufacturing System (MERN Stack)
 A real-time responsive web application designed for **P.R.I. Rubber Industries**, a company that recycles disposable rubber tires into carpets and other products.
@@ -168,7 +168,7 @@ A responsive web application for managing life insurance policies, built to ensu
 
 ---
 
-## 📚 Welcome to Book Nest! 🎉
+## 📚 Book Nest
 A simple yet efficient web application for managing a library of books with ease.
 
 ### 🚀 Features
