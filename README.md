@@ -43,6 +43,8 @@
 [<img src="https://img.shields.io/badge/resume-%23088F8F.svg?&style=for-the-badge&logo=resume&logoColor=black" />](https://mysliit-my.sharepoint.com/:b:/g/personal/it22221414_my_sliit_lk/EfCtDAUYVidIqW_GSRUb_MMBSkp1aQUn8fTJpH3ln-pbXA?e=gJ0iqf) &nbsp;
 [<img src="https://img.shields.io/badge/portfolio-%23E97451.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://siyumisathnarakumarasinghe.github.io/Portfolio/)
 <br><br>
+🏆 See my Grades &nbsp; [<img src="https://img.shields.io/badge/Result%20Sheet-%23B03A2E.svg?&style=for-the-badge&logo=graduation-cap&logoColor=white" />](https://mysliit-my.sharepoint.com/personal/it22221414_my_sliit_lk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fit22221414%5Fmy%5Fsliit%5Flk%2FDocuments%2FResume%20Attachments%2FIT22221414%5FResultSheet%20%281%29%2Epdf&parent=%2Fpersonal%2Fit22221414%5Fmy%5Fsliit%5Flk%2FDocuments%2FResume%20Attachments&ga=1)
+<br><br>
 ⚡ Fun fact **Coding feels like magic, and I love being the wizard! ✨🧙‍♀️**
 
 <br>
